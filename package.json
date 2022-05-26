@@ -1,0 +1,15 @@
+{
+  "id": "targetprocess",
+  "name": "Targetprocess",
+  "version": "1.0.0",
+  "description": "Adds Targetprocess to Ferdi",
+  "main": "index.js",
+  "author": "Kai Brune (@kaibrune)",
+  "license": "MIT",
+  "repository": "https://github.com/kaibrune/ferdi-targetprocess",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": ""
+  }
+}
